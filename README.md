@@ -231,6 +231,8 @@ For information about the governance of the Node.js project, see
   **Rod Vagg** <<r@va.gg>>
 * [TimothyGu](https://github.com/TimothyGu) -
   **Tiancheng "Timothy" Gu** <<timothygu99@gmail.com>> (he/him)
+  * [RolandWise](https://github.com/RolandWise) -
+  **Roland Okoubi** <<micheldrewise@gmail.com>> (he/him)
 * [Trott](https://github.com/Trott) -
   **Rich Trott** <<rtrott@gmail.com>> (he/him)
 
