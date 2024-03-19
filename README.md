@@ -486,7 +486,7 @@ For information about the governance of the Node.js project, see
 * [zcbenz](https://github.com/zcbenz) -
   **Cheng Zhao** <zcbenz@gmail.com> (he/him)
 * [RolandWise](https://github.com/RolandWise) -
-  **Roland okoubi** <micheldrewise@gmail.com> (he/him)
+  **Roland okoubi** <<micheldrewise@gmail.com>> (he/him)
 
 <details>
 
